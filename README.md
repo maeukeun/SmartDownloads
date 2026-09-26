@@ -20,6 +20,7 @@
   <br>
   Everything happens locally on your Mac.
 </p>
+
 ## Features
 
 - Automatic folder monitoring
