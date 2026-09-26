@@ -21,6 +21,12 @@
   Everything happens locally on your Mac.
 </p>
 
+<p align="center">
+  <img src="SmartDownloadsScreenshot.png"
+       alt="Smart Downloads for macOS"
+       width="900">
+</p>
+
 ## Features
 
 - Automatic folder monitoring
