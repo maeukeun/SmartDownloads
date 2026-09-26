@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="SmartDownloadsScreenshot.png"
+  <img src="SmartDownloadsScreenshotMain.png"
        alt="Smart Downloads for macOS"
        width="900">
 </p>
