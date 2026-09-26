@@ -1,16 +1,25 @@
-# Smart Downloads
+<p align="center">
+  <img src="SmartDownloadsIcon.png" width="140" alt="Smart Downloads">
+</p>
 
-A smart file organizer for macOS that automatically keeps your folders clean.
+<h1 align="center">Smart Downloads</h1>
 
-![macOS](https://img.shields.io/badge/macOS-15%2B-blue)
-![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-arm64-purple)
-![Intel](https://img.shields.io/badge/Intel-x86__64-blue)
-![Version](https://img.shields.io/badge/version-1.0-green)
+<p align="center">
+  A smart file organizer for macOS that automatically keeps your folders clean.
+</p>
 
-Smart Downloads automatically monitors a folder and organizes new files using customizable rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-15%2B-blue" alt="macOS 15+">
+  <img src="https://img.shields.io/badge/Apple%20Silicon-arm64-purple" alt="Apple Silicon">
+  <img src="https://img.shields.io/badge/Intel-x86__64-blue" alt="Intel">
+  <img src="https://img.shields.io/badge/version-1.0-green" alt="Version 1.0">
+</p>
 
-Everything happens locally on your Mac.
-
+<p align="center">
+  Smart Downloads automatically monitors a folder and organizes new files using customizable rules.
+  <br>
+  Everything happens locally on your Mac.
+</p>
 ## Features
 
 - Automatic folder monitoring
